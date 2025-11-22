@@ -84,7 +84,10 @@ createCompte
 deleteCompte
 🛠️ Exemple de Requête SOAP
 
-<img src="" 
+<img src="https://github.com/YASSMINEOUQUELLI12/TP13/blob/main/TP13.PNG" 
+     alt="Diagramme SOAP" 
+     style="width: 600px; border-radius: 10px;" />
+     <img src="https://github.com/YASSMINEOUQUELLI12/TP13/blob/main/13.PNG" 
      alt="Diagramme SOAP" 
      style="width: 600px; border-radius: 10px;" />
 
